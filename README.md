@@ -11,14 +11,7 @@ The simplest way to forecast is to use the mean of historical observations. This
 
 A moving average smooths short-term fluctuations. It calculates the average over a rolling window. This reduces noise and highlights underlying trends. It helps identify general movement in noisy data. Moving averages can lag behind trends. They do not handle seasonality well.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
